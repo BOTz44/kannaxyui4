@@ -44,37 +44,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/Fachri??'
-global.sgh = 'https://github.com/Fachri31'
-global.sgc = 'https://chat.whatsapp.com/IZvqUisPlZoLAsryU5O2qn'
-global.sdc = 'https://github.com/fachri31'
+global.sig = 'https://instagram.com/angga_zxx1'
+global.sgh = 'https://github.com/Fachri3'
+global.sgc = 'https://chat.whatsapp.com/LX5HQMc1s6P2GEnSLqYZqr'
+global.sdc = 'https://github.com/fachri3'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088227758096'
-global.povo = '088227758096'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.pdana = '082142185506'
+global.povo = '082142185506'
+global.pgopay = '082142185506'
+global.ppulsa = '082142185506'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '-'
-global.nomorown = '6288227758096'
-global.namebot = 'FAZH BOT'
-global.nameown = 'FACHRI-OFC'
+global.nomorbot = '082142449269'
+global.nomorown = '082142185506'
+global.namebot = 'Yui-Chan'
+global.nameown = 'Ang'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288227758096'],
-  ['6288227758096'],
-  ['6288227758096'],
-  ['6288227758096', 'FachriOfc', true]
+  ['6282142185506'],
+  ['6282142185506'],
+  ['6282142185506'],
+  ['6282142185506', 'FachriOfc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6282142185506'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
